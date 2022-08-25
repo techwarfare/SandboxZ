@@ -1,0 +1,43 @@
+﻿InventoryHud {
+    pointer-events:none;
+}
+InventoryPanel {
+    width: 50%;
+    left: 25%;
+    top: 5%;
+    background-color: rgb(128,128,128);
+    opacity: 0.4;
+    flex-wrap:wrap;
+    border:2px;
+    pointer-events: all;
+}
+
+InventorySlot {
+    opacity: 255;
+    background-repeat:no-repeat;
+    background-position:center;
+    border:1px;
+    pointer-events:all;
+}
+
+.label.slotId {
+    display:none;
+}
+
+.label.slotLabel {
+    font-size: 28px;
+}
+
+.label.slotWeight {
+    top:80%;
+    left:40%;
+}
+
+.label.slotCount {
+    left:20%;
+}
+
+.label.slotQuality {
+    top:80%;
+    right:45%;
+}

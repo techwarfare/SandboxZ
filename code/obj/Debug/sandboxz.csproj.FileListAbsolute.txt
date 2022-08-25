@@ -1,0 +1,14 @@
+G:\SteamLibrary\steamapps\common\sbox\.vs\output\sandboxz.xml
+G:\SteamLibrary\steamapps\common\sbox\.vs\output\sandboxz.deps.json
+G:\SteamLibrary\steamapps\common\sbox\.vs\output\sandboxz.dll
+G:\SteamLibrary\steamapps\common\sbox\.vs\output\sandboxz.pdb
+G:\S&box-Dev\sandboxz\code\obj\Debug\sandboxz.csproj.AssemblyReference.cache
+G:\S&box-Dev\sandboxz\code\obj\Debug\sandboxz.GeneratedMSBuildEditorConfig.editorconfig
+G:\S&box-Dev\sandboxz\code\obj\Debug\sandboxz.AssemblyInfoInputs.cache
+G:\S&box-Dev\sandboxz\code\obj\Debug\sandboxz.AssemblyInfo.cs
+G:\S&box-Dev\sandboxz\code\obj\Debug\sandboxz.csproj.CoreCompileInputs.cache
+G:\S&box-Dev\sandboxz\code\obj\Debug\sandboxz.csproj.CopyComplete
+G:\S&box-Dev\sandboxz\code\obj\Debug\sandboxz.dll
+G:\S&box-Dev\sandboxz\code\obj\Debug\refint\sandboxz.dll
+G:\S&box-Dev\sandboxz\code\obj\Debug\sandboxz.pdb
+G:\S&box-Dev\sandboxz\code\obj\Debug\ref\sandboxz.dll
